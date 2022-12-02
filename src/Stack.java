@@ -1,5 +1,3 @@
-import javax.print.attribute.standard.MediaSize;
-
 public class Stack {
 
     private int maxSize; // size of stack array
